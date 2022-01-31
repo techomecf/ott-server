@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey" : "mykey",
+    "db" : "mongodb://devmaster:estaesnuestra@127.0.0.1:27017/ott_db?authSource=admin"
+}
